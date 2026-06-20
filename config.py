@@ -11,16 +11,16 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("34799043"))
+API_HASH = getenv("1b4969a6538c1ea76bf782cf37ac7099")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("8895357566:AAGIcq3XDXwSOU8Jeb8W5CrL6a3-tIJPMAM")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ABOUTxYUTAA")
+OWNER_USERNAME = getenv("OWNER_USERNAME","zctol")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "IAM_MIMBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "UrVenatrix_music_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "MIMI X MUSIC")
+BOT_NAME = getenv("BOT_NAME" , "˹ 𝐕𝛆𝛈𝛂𝛕ʀ᰻ꪎ ꭙ 𝚳𝛖𝛔𝛊𝛌 𝚩𝛐𝛕 ♪ !!")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "ABOUTxYUTAA")
 # ---------------------------------------------------------
@@ -28,7 +28,7 @@ GROQ_API_KEY="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"
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://theriyamusic94:f67KlgTyzr3TTutn@cluster0.lym5x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://sbkssosj_db_user:ZzM1O9dTqzINesoK@cluster0.a2albdy.mongodb.net/")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -37,7 +37,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1003639584506))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003825353099))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 OWNER_ID = int(getenv("OWNER_ID", 6356015122))
