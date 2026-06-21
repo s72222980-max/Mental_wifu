@@ -14,13 +14,13 @@ load_dotenv()
 API_ID = int(getenv("34799043"))
 API_HASH = getenv("1b4969a6538c1ea76bf782cf37ac7099")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("8895357566:AAHbvYSvIKensODvTM3K1sD43lZTIVds36s")
+BOT_TOKEN = getenv("8824494590:AAEezGt5Fb5fhd8pmeK6JBcV-tartSy73HU")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","zctol")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "UrVenatrix_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Yrlogr6rbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "˹ 𝐕𝛆𝛈𝛂𝛕ʀ᰻ꪎ ꭙ 𝚳𝛖𝛔𝛊𝛌 𝚩𝛐𝛕 ♪ !!")
+BOT_NAME = getenv("BOT_NAME" , "Hj")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "ABOUTxYUTAA")
 # ---------------------------------------------------------
